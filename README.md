@@ -149,7 +149,7 @@ backend.im-infra/
 ### 1. Clone and Prepare
 
 ```bash
-git clone https://github.com/obiMadu/backend.im-infra
+git clone https://github.com/DevOpsGodd/Backend.im-project.git
 cd backend.im-infra
 ```
 
